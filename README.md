@@ -2,7 +2,7 @@
 
 Different strategies for topic modeling used on large sets or notes/texts for clustering, tagging and analyzing. Written in python / jupiter lab
 
-`data/notes.json` structure:
+`data/corpus.json` structure:
 ```
 {
   "data": [ 
@@ -13,3 +13,5 @@ Different strategies for topic modeling used on large sets or notes/texts for cl
    ]
 }
 ```
+
+Current corpus is a rich list of quotes
